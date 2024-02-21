@@ -2,25 +2,25 @@
   "market": [
     {
       "time": "Day",
-      "btcToUsd": "$4.674",
+      "btcToUsd": "$4.464",
       "lower": 2.953,
       "higher": 6.919
     },
     {
       "time": "Week",
-      "btcToUsd": "$8.672",
+      "btcToUsd": "$8.532",
       "lower": 1.927,
       "higher": 5.981
     },
     {
       "time": "Month",
-      "btcToUsd": "$2.674",
+      "btcToUsd": "$2.329",
       "lower": 3.934,
       "higher": 5.012
     },
     {
       "time": "Year",
-      "btcToUsd": "$3.67",
+      "btcToUsd": "$3.679",
       "lower": 4.939,
       "higher": 7.902
     }
